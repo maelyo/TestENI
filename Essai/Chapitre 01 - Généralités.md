@@ -9,8 +9,17 @@ Il y a tout d’abord la communication, qui offre des fonctionnalités pour comm
 ![enter image description here](https://github.com/maelyo/TestENI/upload/master/Essai/01-RBTEAMS-01.png)
 
 *Remarque : Nous adoptons dans le cadre de ce livre une vision résolument orientée entreprise. Il existe une version pour les particuliers de Teams qui ne couvre que les fonctionnalités de communication (cf. Choisir l’offre Teams adaptée à vos besoins).*
+## Teams est dédiée au travail en équipe 
+Dans Teams, la notion d’équipe est centrale. Et cette notion d’équipe ne doit pas être confondue avec celle de communauté.
 
+Dans une équipe, le but principal est de réaliser des travaux, produire des livrables ou résoudre un problème tous ensemble et de manière coordonnée. Dans une communauté, il s’agit plutôt de partager de l’information ou bien de s’entraider.
+
+Parmi les types d’équipe, on peut citer : les équipes projet, les groupes de travail, les entités organisationnelles (c’est-à-dire les services, les directions…).
+
+Dans une équipe, on aura un engagement fort entre les membres et une véritable coordination, alors que dans une communauté, l’engagement des membres les uns vis-à-vis des autres sera beaucoup plus lâche.
+
+Dans l’univers Microsoft 365, Teams est dédié au travail en équipe et Yammer est dédié à la gestion des communautés.
+# Accéder et découvrir l’application Teams
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg4MDA1NjgsLTE3MTMwODU1MjhdfQ
-==
+eyJoaXN0b3J5IjpbLTEyNDA3NTYwMiwtMTcxMzA4NTUyOF19
 -->
