@@ -20,6 +20,11 @@ Dans une équipe, on aura un engagement fort entre les membres et une véritable
 
 Dans l’univers Microsoft 365, Teams est dédié au travail en équipe et Yammer est dédié à la gestion des communautés.
 # Accéder et découvrir l’application Teams
+L’application Microsoft Teams est disponible en trois versions :
+- Application de bureau (Windows ou MacOS) ; 
+- Application mobile (Android et iOS) ; 
+- Application web.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA3NTYwMiwtMTcxMzA4NTUyOF19
+eyJoaXN0b3J5IjpbOTQ4ODM5MiwtMTcxMzA4NTUyOF19
 -->
