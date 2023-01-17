@@ -43,9 +43,14 @@ Lors de la première utilisation, vous serez invité à vous connecter avec vos 
  - Depuis l’application de bureau, cliquez sur le bouton **IC-118** situé en bas de la barre latérale gauche.
 
 La fenêtre **Obtenir l’application mobile Teams** s’affiche :
-![enter image description here](https://github.com/maelyo/TestENI/upload/master/Essai/)
+![enter image description here](https://github.com/maelyo/TestENI/upload/master/Essai/01-RBTEAMS-07.png)
+
+ - Flashez le QR code à l’aide de votre smartphone ou de votre tablette pour ouvrir la page de téléchargement de l’application mobile sur le store Google ou Apple.
+ - Installer l’application sur votre terminal mobile.
+Astuce : 	Vous pouvez également rechercher l’application mobile Teams directement depuis le store Google ou Apple.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyNTM0NzM3LDk0ODgzOTIsLTE3MTMwOD
-U1MjhdfQ==
+eyJoaXN0b3J5IjpbLTE3MTE5MDY2OCw5NDg4MzkyLC0xNzEzMD
+g1NTI4XX0=
 -->
