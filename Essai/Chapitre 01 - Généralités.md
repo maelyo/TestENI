@@ -35,7 +35,7 @@ L’application Microsoft Teams est disponible en trois versions :
 L’application de bureau Teams est installée et peut être utilisée.
 Lors de la première utilisation, vous serez invité à vous connecter avec vos identifiants (adresse email et mot de passe) :
 
-
+![enter image description here](https://enifr-my.sharepoint.com/personal/chervo_eni_fr/_layouts/15/onedrive.aspx?login_hint=chervo@eni.fr&id=/personal/chervo_eni_fr/Documents/Images%20RBTEA)
 
  - Utilisez les identifiants de votre compte Microsoft 365 si vous en possédez un, sinon utilisez les identifiants de votre compte Microsoft personnel.
 ### Application mobile
@@ -57,6 +57,6 @@ Astuce : Vous pouvez également rechercher l’application mobile Teams directem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5Mzk0NTMzLDEwOTY5MzE2NjksOTQ4OD
-M5MiwtMTcxMzA4NTUyOF19
+eyJoaXN0b3J5IjpbLTc4MDE3NDYxOCwyNTkzOTQ1MzMsMTA5Nj
+kzMTY2OSw5NDg4MzkyLC0xNzEzMDg1NTI4XX0=
 -->
