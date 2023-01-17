@@ -38,8 +38,11 @@ Lors de la première utilisation, vous serez invité à vous connecter avec vos 
 ![enter image description here](https://github.com/maelyo/TestENI/upload/master/Essai/01-RBTEAMS-06.png)
 
  - Utilisez les identifiants de votre compte Microsoft 365 si vous en possédez un, sinon utilisez les identifiants de votre compte Microsoft personnel.
-Application mobile
+### Application mobile
+*L’application mobile vous permet de continuer à recevoir les notifications et à travailler avec les membres de vos équipes directement sur votre smartphone ou votre tablette même en déplacement.*
+ - Depuis l’application de bureau, cliquez sur le bouton IC-118 situé en bas de la barre latérale gauche.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzIzNzczNSw5NDg4MzkyLC0xNzEzMD
+eyJoaXN0b3J5IjpbLTQwNzEzMDIzNyw5NDg4MzkyLC0xNzEzMD
 g1NTI4XX0=
 -->
