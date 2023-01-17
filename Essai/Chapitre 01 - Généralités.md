@@ -21,10 +21,14 @@ Dans une équipe, on aura un engagement fort entre les membres et une véritable
 Dans l’univers Microsoft 365, Teams est dédié au travail en équipe et Yammer est dédié à la gestion des communautés.
 # Accéder et découvrir l’application Teams
 L’application Microsoft Teams est disponible en trois versions :
-- Application de bureau (Windows ou MacOS) ; 
-- Application mobile (Android et iOS) ; 
-- Application web.
-
+ - Application de bureau (Windows ou MacOS) ; 
+ - Application mobile (Android et iOS) ; 
+ - Application web.
+## Accéder à Teams
+ - 	Pour télécharger Teams, entrez l’url suivante dans la barre d’adresse de votre navigateur : https://www.microsoft.com/fr-fr/microsoft-teams/download-app 
+ -	Cliquez sur le bouton Télécharger pour un ordinateur de bureau. 
+ -	Ouvrez le fichier téléchargez et suivez les instructions d’installation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4ODM5MiwtMTcxMzA4NTUyOF19
+eyJoaXN0b3J5IjpbMTIxMDQyODk4Miw5NDg4MzkyLC0xNzEzMD
+g1NTI4XX0=
 -->
