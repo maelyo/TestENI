@@ -25,6 +25,9 @@ L’application Microsoft Teams est disponible en trois versions :
  - Application mobile (Android et iOS) ; 
  - Application web.
 ## Accéder à Teams
+
+### Application de bureau
+
  - 	Pour télécharger Teams, entrez l’url suivante dans la barre d’adresse de votre navigateur : https://www.microsoft.com/fr-fr/microsoft-teams/download-app 
  -	Cliquez sur le bouton Télécharger pour un ordinateur de bureau. 
  -	Ouvrez le fichier téléchargez et suivez les instructions d’installation.
@@ -33,7 +36,10 @@ L’application de bureau Teams est installée et peut être utilisée.
 Lors de la première utilisation, vous serez invité à vous connecter avec vos identifiants (adresse email et mot de passe) :
 
 ![enter image description here](https://github.com/maelyo/TestENI/upload/master/Essai/01-RBTEAMS-06.png)
+
+ - Utilisez les identifiants de votre compte Microsoft 365 si vous en possédez un, sinon utilisez les identifiants de votre compte Microsoft personnel.
+Application mobile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODg3MDc0NSw5NDg4MzkyLC0xNzEzMD
+eyJoaXN0b3J5IjpbLTM2MzIzNzczNSw5NDg4MzkyLC0xNzEzMD
 g1NTI4XX0=
 -->
