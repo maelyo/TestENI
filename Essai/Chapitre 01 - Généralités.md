@@ -8,6 +8,9 @@ Il y a tout d’abord la communication, qui offre des fonctionnalités pour comm
 
 ![enter image description here](https://github.com/maelyo/TestENI/upload/master/Essai/01-RBTEAMS-01.png)
 
+*Remarque : Nous adoptons dans le cadre de ce livre une vision résolument orientée entreprise. Il existe une version pour les particuliers de Teams qui ne couvre que les fonctionnalités de communication (cf. Choisir l’offre Teams adaptée à vos besoins).*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODQzMjY1OCwtMTcxMzA4NTUyOF19
+eyJoaXN0b3J5IjpbLTE5Mzg4MDA1NjgsLTE3MTMwODU1MjhdfQ
+==
 -->
