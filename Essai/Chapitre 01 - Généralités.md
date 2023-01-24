@@ -10,7 +10,7 @@ Il y a tout d’abord la communication, qui offre des fonctionnalités pour comm
 
 
 
-> Remarque : Nous adoptons dans le cadre de ce livre une vision
+> Remarque : Nous adoptons ici dans le cadre de ce livre une vision
 > résolument orientée entreprise. Il existe une version pour les
 > particuliers de Teams qui ne couvre que les fonctionnalités de
 > communication (cf. Choisir l’offre Teams adaptée à vos besoins).*
