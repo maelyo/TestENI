@@ -8,7 +8,13 @@ Il y a tout d’abord la communication, qui offre des fonctionnalités pour comm
 
 ![enter image description here](https://github.com/maelyo/TestENI/Essai/01-RBTEAMS-01.png)
 
-*Remarque : Nous adoptons dans le cadre de ce livre une vision résolument orientée entreprise. Il existe une version pour les particuliers de Teams qui ne couvre que les fonctionnalités de communication (cf. Choisir l’offre Teams adaptée à vos besoins).*
+*
+
+> Remarque : Nous adoptons dans le cadre de ce livre une vision
+> résolument orientée entreprise. Il existe une version pour les
+> particuliers de Teams qui ne couvre que les fonctionnalités de
+> communication (cf. Choisir l’offre Teams adaptée à vos besoins).*
+
 ## Teams est dédiée au travail en équipe 
 Dans Teams, la notion d’équipe est centrale. Et cette notion d’équipe ne doit pas être confondue avec celle de communauté.
 
@@ -56,7 +62,7 @@ Astuce : Vous pouvez également rechercher l’application mobile Teams directem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MTQyNDQ3LC0xMDg3Mzc1NzU5LDc3OD
-E0MjQ0NywyNTkzOTQ1MzMsMTA5NjkzMTY2OSw5NDg4MzkyLC0x
-NzEzMDg1NTI4XX0=
+eyJoaXN0b3J5IjpbLTY4OTU4NDU3NSw3NzgxNDI0NDcsLTEwOD
+czNzU3NTksNzc4MTQyNDQ3LDI1OTM5NDUzMywxMDk2OTMxNjY5
+LDk0ODgzOTIsLTE3MTMwODU1MjhdfQ==
 -->
