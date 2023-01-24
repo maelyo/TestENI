@@ -40,7 +40,7 @@ L’application Microsoft Teams est disponible en trois versions :
 
 L’application de bureau Teams est installée et peut être utilisée.
 Lors de la première utilisation, vous serez invité à vous connecter avec vos identifiants (adresse email et mot de passe) :
-![enter image description here](https://github.com/maelyo/TestENI/blob/master/Essai/images/01-RBTEAMS-06.png)
+![enter image description here](https://github.com/maelyo/TestENI/blob/master/Essai/images/01-RBTEAMS-06.png?raw=true)
  - Utilisez les identifiants de votre compte Microsoft 365 si vous en possédez un, sinon utilisez les identifiants de votre compte Microsoft personnel.
 ### Application mobile
 *L’application mobile vous permet de continuer à recevoir les notifications et à travailler avec les membres de vos équipes directement sur votre smartphone ou votre tablette même en déplacement.*
@@ -61,8 +61,8 @@ Astuce : Vous pouvez également rechercher l’application mobile Teams directem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDg5MjcxMSwxMTk2MjU1OTQ4LDcxOD
-c3ODI2MSw3NzgxNDI0NDcsLTEwODczNzU3NTksNzc4MTQyNDQ3
-LDI1OTM5NDUzMywxMDk2OTMxNjY5LDk0ODgzOTIsLTE3MTMwOD
-U1MjhdfQ==
+eyJoaXN0b3J5IjpbMjkwMjY3NTAzLDExOTYyNTU5NDgsNzE4Nz
+c4MjYxLDc3ODE0MjQ0NywtMTA4NzM3NTc1OSw3NzgxNDI0NDcs
+MjU5Mzk0NTMzLDEwOTY5MzE2NjksOTQ4ODM5MiwtMTcxMzA4NT
+UyOF19
 -->
