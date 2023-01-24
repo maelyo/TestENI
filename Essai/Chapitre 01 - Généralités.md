@@ -8,7 +8,7 @@ Il y a tout d’abord la communication, qui offre des fonctionnalités pour comm
 
 ![enter image description here](https://github.com/maelyo/TestENI/Essai/01-RBTEAMS-01.png)
 
-*
+
 
 > Remarque : Nous adoptons dans le cadre de ce livre une vision
 > résolument orientée entreprise. Il existe une version pour les
@@ -62,7 +62,7 @@ Astuce : Vous pouvez également rechercher l’application mobile Teams directem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTU4NDU3NSw3NzgxNDI0NDcsLTEwOD
-czNzU3NTksNzc4MTQyNDQ3LDI1OTM5NDUzMywxMDk2OTMxNjY5
-LDk0ODgzOTIsLTE3MTMwODU1MjhdfQ==
+eyJoaXN0b3J5IjpbNzE4Nzc4MjYxLDc3ODE0MjQ0NywtMTA4Nz
+M3NTc1OSw3NzgxNDI0NDcsMjU5Mzk0NTMzLDEwOTY5MzE2Njks
+OTQ4ODM5MiwtMTcxMzA4NTUyOF19
 -->
