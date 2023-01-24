@@ -6,10 +6,6 @@ Une plateforme collaborative telle que Teams couvre trois grands domaines foncti
 Il y a tout d’abord la communication, qui offre des fonctionnalités pour communiquer plus efficacement (communication par écrit, par audio, par vidéo, en mode synchrone ou asynchrone). Puis la coordination, dont la vocation est de faciliter la planification et la gestion des tâches et du temps. Et enfin, la coopération qui va se concentrer sur la production et la collaboration autour de documents.
 À l’intersection de ces trois domaines, se trouvent des fonctionnalités permettant notamment de partager l’information, d’organiser et de participer à des réunions, de co-produire et bien entendu de gérer l’équipe comme l’illustre la figure suivante :
 
-![enter image description here](https://github.com/maelyo/TestENI/Essai/01-RBTEAMS-01.png)
-
-
-
 > Remarque : Nous adoptons ici dans le cadre de ce livre une vision
 > résolument orientée entreprise. Il existe une version pour les
 > particuliers de Teams qui ne couvre que les fonctionnalités de
@@ -47,7 +43,7 @@ Lors de la première utilisation, vous serez invité à vous connecter avec vos 
  - Depuis l’application de bureau, cliquez sur le bouton **IC-118** situé en bas de la barre latérale gauche.
 
 La fenêtre **Obtenir l’application mobile Teams** s’affiche :
-![enter image description here](https://github.com/maelyo/TestENI/upload/master/Essai/01-RBTEAMS-07.png)
+![enter image description here](https://github.com/maelyo/TestENI/blob/master/Essai/images/01-RBTEAMS-07.png?raw=true)
 
  - Flashez le QR code à l’aide de votre smartphone ou de votre tablette pour ouvrir la page de téléchargement de l’application mobile sur le store Google ou Apple.
  - Installer l’application sur votre terminal mobile.
@@ -61,8 +57,8 @@ Astuce : Vous pouvez également rechercher l’application mobile Teams directem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMjY3NTAzLDExOTYyNTU5NDgsNzE4Nz
-c4MjYxLDc3ODE0MjQ0NywtMTA4NzM3NTc1OSw3NzgxNDI0NDcs
-MjU5Mzk0NTMzLDEwOTY5MzE2NjksOTQ4ODM5MiwtMTcxMzA4NT
-UyOF19
+eyJoaXN0b3J5IjpbODMzOTQ0NTksMTE5NjI1NTk0OCw3MTg3Nz
+gyNjEsNzc4MTQyNDQ3LC0xMDg3Mzc1NzU5LDc3ODE0MjQ0Nywy
+NTkzOTQ1MzMsMTA5NjkzMTY2OSw5NDg4MzkyLC0xNzEzMDg1NT
+I4XX0=
 -->
