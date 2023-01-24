@@ -49,13 +49,14 @@ La fenêtre **Obtenir l’application mobile Teams** s’affiche :
 
 Astuce : Vous pouvez également rechercher l’application mobile Teams directement depuis le store Google ou Apple.
 
- - Pour ouvrir l’application, activez l’icône Teams depuis votre
+ - Pour ouvrir l’application, activez l’icône Teams  depuis votre
    smartphone ou votre tablette. 
    
  - Tapez ensuite vos identifiants Microsoft 365 ou Microsoft personnel pour vous connecter à Teams.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MTQyNDQ3LDI1OTM5NDUzMywxMDk2OT
-MxNjY5LDk0ODgzOTIsLTE3MTMwODU1MjhdfQ==
+eyJoaXN0b3J5IjpbLTEwODczNzU3NTksNzc4MTQyNDQ3LDI1OT
+M5NDUzMywxMDk2OTMxNjY5LDk0ODgzOTIsLTE3MTMwODU1Mjhd
+fQ==
 -->
