@@ -2,7 +2,7 @@
 Microsoft Teams est la plateforme de travail en équipe qui est au cœur de Microsoft 365. 
 
 ## Teams facilite la collaboration
-Une plateforme collaborative telle que Teams couvre trois grands domaines fonctionnels.
+Une plateforme telle que Teams couvre trois grands domaines fonctionnels.
 Il y a tout d’abord la communication, qui offre des fonctionnalités pour communiquer plus efficacement (communication par écrit, par audio, par vidéo, en mode synchrone ou asynchrone). Puis la coordination, dont la vocation est de faciliter la planification et la gestion des tâches et du temps. Et enfin, la coopération qui va se concentrer sur la production et la collaboration autour de documents.
 À l’intersection de ces trois domaines, se trouvent des fonctionnalités permettant notamment de partager l’information, d’organiser et de participer à des réunions, de co-produire et bien entendu de gérer l’équipe comme l’illustre la figure suivante :
 ![enter image description here](https://github.com/maelyo/TestENI/blob/master/Essai/images/01-RBTEAMS-01.png?raw=true)
@@ -57,8 +57,8 @@ Astuce : Vous pouvez également rechercher l’application mobile Teams directem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwOTE1NTg4LDgzMzk0NDU5LDExOTYyNT
-U5NDgsNzE4Nzc4MjYxLDc3ODE0MjQ0NywtMTA4NzM3NTc1OSw3
-NzgxNDI0NDcsMjU5Mzk0NTMzLDEwOTY5MzE2NjksOTQ4ODM5Mi
-wtMTcxMzA4NTUyOF19
+eyJoaXN0b3J5IjpbLTQ4NDcwNDE2NywyNDA5MTU1ODgsODMzOT
+Q0NTksMTE5NjI1NTk0OCw3MTg3NzgyNjEsNzc4MTQyNDQ3LC0x
+MDg3Mzc1NzU5LDc3ODE0MjQ0NywyNTkzOTQ1MzMsMTA5NjkzMT
+Y2OSw5NDg4MzkyLC0xNzEzMDg1NTI4XX0=
 -->
