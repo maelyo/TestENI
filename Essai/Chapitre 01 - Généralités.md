@@ -1,5 +1,5 @@
 # Présentation générale
-Microsoft Teams est la plateforme de travail en équipe qui est au cœur de Microsoft 365. 
+Microsoft Teams est une/la plateforme de travail en équipe qui est au cœur de Microsoft 365. 
 
 ## Teams facilite la collaboration
 Une plateforme telle que Teams couvre deux grands domaines fonctionnels.
